@@ -1,5 +1,7 @@
 # Slack Feedback Bot
 
+DEMO https://mariapori.fi/Fedba%20demo.mov
+
 A Node.js Slack bot designed to encourage positive and constructive feedback within your team by prompting teammates weekly and delivering feedback privately.
 
 ---
